@@ -980,3 +980,10 @@ footer {
         transition: 0.3s;
     }
 }
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
